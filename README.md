@@ -6,7 +6,7 @@
 
 ## User Interface
 
-<!-- image -->
+<!-- copy image permalink -->
 
 ## Instructions
 
